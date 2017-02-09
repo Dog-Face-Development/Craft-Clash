@@ -1,5 +1,5 @@
 # CraftClash
-A dynamic cross of [Clash of Clans](http://supercell.com/en/games/clashofclans/) and [Minecraft](https://minecraft.net/en/). Spend the day upgrading your buildings and walls, craft new items and tend to your world. Have fun spending the night fighting off monsters and hoping you and your world can endure the damage that they do! Written in Python 3 with ❤. Fully open source!!
+A dynamic cross of [Clash of Clans](http://supercell.com/en/games/clashofclans/) and [Minecraft](https://minecraft.net/en/). Spend the day upgrading your buildings and walls, craft new items and tend to your world. Have fun spending the night fighting off monsters and hoping you and your world can endure the damage that they do! Written in Python 3 with ❤!! Fully open source!!
 
 ![Total Downloads](https://img.shields.io/github/downloads/Derpyface-Development-Co/Craft-Clash/total.svg)
 ![Release Version](https://img.shields.io/github/release/Derpyface-Development-Co/Craft-Clash.svg)
