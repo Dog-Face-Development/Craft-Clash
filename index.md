@@ -1,5 +1,5 @@
 # CraftClash
-A dynamic cross of [Clash of Clans](http://supercell.com/en/games/clashofclans/) and [Minecraft](https://minecraft.net/en/). Spend the day upgrading your buildings and walls, craft new items and tend to your world. Have fun spending the night fighting off monsters and hoping you and your world can endure the damage that they do! Written in Python 3 with ❤!! Fully open source!!
+A dynamic cross of [Clash of Clans](http://supercell.com/en/games/clashofclans/) and [Minecraft](https://minecraft.net/en/). Spend the day upgrading your buildings and walls, craft new items and tend to your world. Have fun spending the night fighting off monsters and hoping you and your world can endure the damage that they do! Written in Python 3 with ❤. Fully open source!!
 
 ![Total Downloads](https://img.shields.io/github/downloads/Derpyface-Development-Co/Craft-Clash/total.svg)
 ![Release Version](https://img.shields.io/github/release/Derpyface-Development-Co/Craft-Clash.svg)
@@ -37,6 +37,7 @@ We also created this project to see if two beginner programmers could create a m
 - [@Dog-Face-Developement](https://github.com/dog-face-development)
 
 ## Installation and Startup Instructions
+
 ### Through the Python Module (IDLE)
 - Download the Python module if you haven’t already: [Download Link](https://www.python.org/downloads), and install it,
 - Extract the files from your GitHub Download,
@@ -98,6 +99,7 @@ Note: Please check the known issues list below before posting an issue to see if
 
 ## License, Assets & Legal Stuff
 Below is alot of licensing stuff that says what you can't and can do with the software. All you need to know is that you **CAN NOT** claim the software as you own. You can do just about anything else. For more info keep reading...
+
 ### License
 This software has been released as open source under the *GNU General Public License V3.0* license.  
 You can view the license in the [`LICENSE.md`](https://github.com/Derpyface-Development-Co/Craft-Clash/blob/master/LICENSE) file in this projects repository.  
