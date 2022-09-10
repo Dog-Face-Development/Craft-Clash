@@ -1,0 +1,31 @@
+
+include *.c
+include *.h
+include *.in
+include *.md
+include *.py
+include *.rst
+include *.sh
+include *.txt
+include LICENSE
+include Makefile
+graft Scripts
+graft Tests
+graft PIL
+graft Tk
+graft libImaging
+graft depends
+graft winbuild
+graft docs
+prune docs/_static
+
+# build/src control detritus
+exclude .coveragerc
+exclude .editorconfig
+exclude .landscape.yaml
+exclude appveyor.yml
+exclude build_children.sh
+exclude tox.ini
+global-exclude .git*
+global-exclude *.pyc
+global-exclude *.so
