@@ -1,0 +1,14 @@
+PLANNING DOCUMENT
+=================
+You can put textures, GUI and music that you have created in the following folders:
+- \assets\textures for Textures
+- \assets\gui for GUI
+- \assets\music for music.
+Make sure you are complying with the license for these items.
+
+CURRENT NEEDINGS:
+- Travis CI or Circle CI integration.
+- Options screen help.
+
+
+Should be able to do most of my work on Saturdays!
