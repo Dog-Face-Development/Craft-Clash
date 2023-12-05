@@ -1,5 +1,5 @@
 """Test the AboutScreen class in aboutscreen.py."""
-#pylint: disable=import-error, invalid-name
+# pylint: disable=import-error, invalid-name
 
 # Get out of the test directory
 import os
@@ -11,8 +11,10 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.dirname(current_dir)
 sys.path.append(os.path.join(parent_dir))
 
+
 class TestAboutScreen(unittest.TestCase):
     """Test the AboutScreen class in aboutscreen.py."""
+
     def setUp(self):
         """Set up the test."""
         self.about_screen = aboutscreen()
