@@ -1,5 +1,5 @@
 """Test the main.py file."""
-#pylint: disable=import-error, invalid-name
+# pylint: disable=import-error, invalid-name
 
 # Get out of the test directory
 import os

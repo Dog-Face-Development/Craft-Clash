@@ -1,5 +1,5 @@
 """Test the OptionScreen class in optionscreen.py."""
-#pylint: disable=import-error, invalid-name
+# pylint: disable=import-error, invalid-name
 
 # Get out of the test directory
 import os
