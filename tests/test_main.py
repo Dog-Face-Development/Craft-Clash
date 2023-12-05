@@ -1,5 +1,5 @@
 """Test the main.py file."""
-#pylint: disable=import-error, invalid-name
+# pylint: disable=import-error, invalid-name
 
 # Get out of the test directory
 import os
@@ -14,7 +14,7 @@ sys.path.append(os.path.join(parent_dir))
 
 class TestCraftClash(unittest.TestCase):
     """Test the CraftClash class in main.py."""
-    
+
     def setUp(self):
         """Set up the test."""
         self.app = craftclash()
